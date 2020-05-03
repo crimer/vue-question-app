@@ -1,6 +1,6 @@
 # vue-question-app
 
-![alt text](https://github.com/crimer/vue-question-app/vue-question-app-preview.png "Preview image")
+![alt text](https://github.com/crimer/vue-question-app/blob/master/vue-question-app-preview.png "Preview image")
 
 ## Project setup
 ```
